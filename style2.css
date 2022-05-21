@@ -43,6 +43,8 @@ body {
     text-shadow: 0 0 5px #ff1100;
     font-family: 'Arapey', sans-serif;
     line-height: 1.0;
+    line-height: 3px;   /* within paragraph */
+    margin-bottom: 3px; /* between paragraphs */
 
 
 }
